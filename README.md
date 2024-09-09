@@ -1,4 +1,4 @@
-# Banking Churn Prediction ML Solution
+# Credit Card User Churn Prediction ML Solution
 
 ## Business Context
 
