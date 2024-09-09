@@ -1,4 +1,4 @@
-# Banking Churn Prediction ML Solution - Building Classification Models on Banking Customers
+# Banking Churn Prediction ML Solution
 
 ## Business Context
 
