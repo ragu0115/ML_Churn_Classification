@@ -1,4 +1,4 @@
-# Banking Churn Prediction ML Solution - Neural Networks to Classify Customers
+# Banking Churn Prediction ML Solution - Building Classification Models on Banking Customers
 
 ## Business Context
 
